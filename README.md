@@ -1,2 +1,3 @@
-# sqlzoo-solutions
+SQLZOO Solutions
+================
 My Solutions for sqlzoo problems: [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
